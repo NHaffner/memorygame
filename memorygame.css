@@ -1,0 +1,33 @@
+
+body{
+	background-color: midnightblue;
+	margin-top: 10px;
+	margin-left: 40px;
+
+}
+
+.firstDiv{
+	font-size: 100px;
+	color: white;
+}
+
+.btn{
+	border-radius: 25px;
+	background-color: deepskyblue;
+	height: 100px;
+}
+
+.column{
+	border-radius: 25px;
+	/*padding: 10px;*/
+}
+
+.row{
+	/*margin-bottom: 15px;*/
+}
+
+img {
+	height: 300px;
+	max-width: 300px;
+	margin-bottom: 15px;
+}
